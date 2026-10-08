@@ -1,4 +1,4 @@
-## # 👨‍💻 Davi Campos
+##  👨‍💻 Davi Campos
 
 **`Desenvolvedor Java`**
 
